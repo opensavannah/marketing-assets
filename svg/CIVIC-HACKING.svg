@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1643" height="615" viewBox="0 0 1643 615">
+  <defs>
+    <rect id="civic-hacking-a" width="776" height="11" x="155" y="281"/>
+    <rect id="civic-hacking-b" width="776" height="11" x="155" y="261"/>
+    <rect id="civic-hacking-c" width="584" height="11" x="869" y="497"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="1650" height="630" x="-1" y="-7" fill="#4A90E2"/>
+    <use fill="#FFF" xlink:href="#civic-hacking-a"/>
+    <rect width="775" height="10" x="155.5" y="281.5" stroke="#979797"/>
+    <use fill="#FFF" xlink:href="#civic-hacking-b"/>
+    <rect width="775" height="10" x="155.5" y="261.5" stroke="#979797"/>
+    <use fill="#FFF" xlink:href="#civic-hacking-c"/>
+    <rect width="583" height="10" x="869.5" y="497.5" stroke="#979797"/>
+    <text fill="#FFF" font-family="ClaireHand-Bold, Claire Hand" font-size="144" font-weight="bold" letter-spacing="-3.56">
+      <tspan x="140.404" y="231">CIVIC HACKING</tspan>
+    </text>
+    <text fill="#FFF" font-family="ClaireHand-Bold, Claire Hand" font-size="144" font-weight="bold" letter-spacing="-3.56">
+      <tspan x="820.908" y="467">STRONGER</tspan>
+    </text>
+    <text fill="#FFF" font-family="Cedarville-Cursive, Cedarville Cursive" font-size="144" font-style="italic" letter-spacing="-3.56">
+      <tspan x="194.17" y="470">Savannah</tspan>
+    </text>
+    <text fill="#FFF" font-family="Cedarville-Cursive, Cedarville Cursive" font-size="144" font-style="italic" letter-spacing="-3.56">
+      <tspan x="989.053" y="222">can make</tspan>
+    </text>
+  </g>
+</svg>
